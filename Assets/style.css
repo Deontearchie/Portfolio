@@ -1,0 +1,20 @@
+        body {
+            background-image: url(billy-williams-8wz1Q4Q_XAg-unsplash.jpg);
+            background-size: 6000px auto;
+        }
+        
+        .container {
+            background-color: azure;
+            margin: 400px;
+            height: 600px;
+            padding: 100px;
+            width: 100%;
+        }
+        
+        footer {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            background-color: azure;
+            text-align: center;
+        }
