@@ -23,3 +23,11 @@
             max-width: 350px;
             max-height: 350px;
         }
+        
+        .txt {
+            text-align: Top;
+            padding: 15px;
+            margin: 15px;
+            float: left;
+            width: 275px;
+        }
