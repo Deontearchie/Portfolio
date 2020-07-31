@@ -1,12 +1,12 @@
         body {
             background-image: url(billy-williams-8wz1Q4Q_XAg-unsplash.jpg);
-            background-size: 6000px auto;
+            background-size: 2000px auto;
         }
         
         .container {
             background-color: azure;
             margin: 20px;
-            height: 600px;
+            height: 800px;
             padding: 20px;
             width: 100%;
         }
