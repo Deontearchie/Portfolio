@@ -1,33 +1,30 @@
-        body {
-            background-image: url(billy-williams-8wz1Q4Q_XAg-unsplash.jpg);
-            background-size: 2000px auto;
-        }
-        
-        .container {
-            background-color: azure;
-            margin: 20px;
-            height: 600px;
-            padding: 20px;
-            width: 100%;
-        }
-        
-        footer {
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-            background-color: azure;
-            text-align: center;
-        }
-        
-        #prom {
-            max-width: 350px;
-            max-height: 350px;
-        }
-        
-        .txt {
-            text-align: top;
-            padding: 15px;
-            margin: 15px;
-            float: left;
-            width: 275px;
-        }
+body {
+    flex: 1;
+    background-image: linear-gradient(to right, #FEFEFE, #E4CB90);
+}
+
+.left,
+.right {
+    height: 30vh;
+    margin-top: 250px;
+}
+
+.container {
+    background-color: #FCFFFD;
+    margin: 20px;
+    height: 600px;
+    padding: 20px;
+    width: 100%;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #FCFFFD;
+    text-align: center;
+}
+
+#prom {
+    float: left;
+}
